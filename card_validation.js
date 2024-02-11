@@ -1,5 +1,7 @@
 // Function to validate a credit card number and determine its type
 
+
+// please use a valid card details and test the code in the test section which is at the end of this code 
 function validate_Credit_card (card_number){
 
      // Remove spaces and dashes from the card number to  simplify the input for consistent pattern matching and validation using regular expressions
